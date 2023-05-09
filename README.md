@@ -16,6 +16,17 @@ I collected a portion of companies that offered VISA sponsorship in **Germany** 
 **Please support us with a shinny ⭐**.
 
 
+## Contributors
+
+Join us!
+
+<a href="https://github.com/SiaExplains/visa-sponsorship-companies/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=SiaExplains/visa-sponsorship-companies" />
+</a>
+
+
+##
+
 📫 Let me know your suggestions & ideas:
 - [![Twitter Follow](https://img.shields.io/twitter/follow/siaexplains?style=social)](https://twitter.com/siaexplains)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/siavash-ghanbari/)
