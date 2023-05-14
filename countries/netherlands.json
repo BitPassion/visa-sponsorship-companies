@@ -279,6 +279,14 @@
     "linkedin": "https://www.linkedin.com/company/adevinta/jobs"
   },
   {
+    "name": "Media.Monks",
+    "year-of-make": "2001",
+    "industry": "Advertising Services",
+    "city": "Hilversum",
+    "number-of-employees": "7000",
+    "country": "Netherlands",
+    "linkedin": "https://www.linkedin.com/company/mediamonks/jobs"
+  },
     "name": "team.blue",
     "year-of-make": "2019",
     "industry": "Technology, Information and Internet",
@@ -286,5 +294,13 @@
     "number-of-employees": "5000",
     "country": "Netherlands",
     "linkedin": "https://www.linkedin.com/company/teamblue/jobs/"
+  },
+    "name": "coolBlue",
+    "year-of-make": "1999",
+    "industry": "Computers and Electronics Manufacturing",
+    "city": "Rotterdam, Zuid-Holland",
+    "number-of-employees": "5000",
+    "country": "Netherlands",
+    "linkedin": "https://www.linkedin.com/company/coolblue/jobs/"
   }
 ]
