@@ -2,11 +2,6 @@
 
 The aim of this repo is making an updated list of all companies around the world that offer visa sponsorship perk.
 
-See the list here:
-<b><i>
-[Demo App](https://siaexplains.github.io/visa-sponsorship-companies/)
-  </i></b>
-
 For now we added +13 countries, but we need your help, it means if you have got any sponsership visa or your company offering it, feel free to create a pull-request and try to contribute.
 
 ### How can you contribute:
@@ -18,14 +13,6 @@ For now we added +13 countries, but we need your help, it means if you have got 
 5. Send the PR
 
 **Please support us with a shinny ⭐**.
-
-## Contributors
-
-Join us!
-
-<a href="https://github.com/SiaExplains/visa-sponsorship-companies/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=SiaExplains/visa-sponsorship-companies" />
-</a>
 
 ## How to run Company-Finder app
 
@@ -47,7 +34,3 @@ yarn dev
 
 ##
 
-📫 Let me know your suggestions & ideas:
-
-- [![Twitter Follow](https://img.shields.io/twitter/follow/siaexplains?style=social)](https://twitter.com/siaexplains)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/siavash-ghanbari/)
